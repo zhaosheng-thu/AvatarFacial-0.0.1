@@ -35,4 +35,4 @@ The demo will be updated after the paper is published.
 
 5. **虚拟影院**：在 VR 世界内创建了一个虚拟影院体验，为用户提供了身临其境的电影体验。
 
-这些增强功能使得 VR 体验更加强大和沉浸。关于本项目具体idea实现实验设计和视频demo将会在文章投稿后更新。
+这些增强功能使得 VR 体验更加强大和沉浸。关于本项目具体idea、实验设计和视频demo将会在文章投稿后更新。
