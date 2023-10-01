@@ -14,6 +14,8 @@ I have used the official SDK for [Oculus Movements](https://github.com/oculus-sa
 4. **Facial Expression Fine-Tuning**: Making fine adjustments to facial expressions by modifying blendshapes in facial modeling to control and enhance the range of facial expressions.
 
 5. **Virtual Cinema**: Creating a virtual cinema within the VR world, providing users with a cinematic experience.
+   
+The demo will be updated after the paper is published.
 # 中文
 # AvatarFacial 代码库
 
@@ -33,4 +35,4 @@ I have used the official SDK for [Oculus Movements](https://github.com/oculus-sa
 
 5. **虚拟影院**：在 VR 世界内创建了一个虚拟影院体验，为用户提供了身临其境的电影体验。
 
-这些增强功能使得 VR 体验更加强大和沉浸。
+这些增强功能使得 VR 体验更加强大和沉浸。关于本项目的视频以及其他的demo将会在文章投稿后更新。
